@@ -8,6 +8,7 @@ int main(){
     Y=2;
     X=MySum(X,Y);
     while(1){
+        X=MySum(X,Y);
         X=X;
     }
 }
