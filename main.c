@@ -4,7 +4,7 @@
 
 int main(){
     int X,Y;
-    X=1;
+    X=5;
     Y=2;
     X=MySum(X,Y);
     while(1){
