@@ -3,7 +3,7 @@
 
 
 int main(){
-    int X,Y,Z=1,K=9;
+    int X,Y,Z=1,K=4;
     X=K;
     Y=2;
     X=MySum(X,Y);
